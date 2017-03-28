@@ -1,0 +1,1 @@
+#### view set click listener, set long click listener, set on touch listener
